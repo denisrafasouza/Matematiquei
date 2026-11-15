@@ -1,4 +1,5 @@
 # 📚  Aplicativo Matematiquei
+link = https://denisrafasouza.github.io/Matematiquei/
 
 
 Este projeto foi criado para ajudar estudantes a aprender Matemática de forma simples, visual e interativa.
